@@ -1,6 +1,6 @@
 metadata:
-  id: ajeetraina/labspace-sbx
-  sourceRepo: github.com/ajeetraina/labspace-sbx
+  id: dockersamples/labspace-sbx-quickstart
+  sourceRepo: github.com/dockersamples/labspace-sbx-quickstart
   contentVersion: abcd123
 
 title: Running AI Agents Safely with Docker Sandboxes
